@@ -670,9 +670,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\dp350.csproj",
-      "projectName": "dp350",
-      "projectPath": "c:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\dp350.csproj",
+      "projectUniqueName": "c:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\inter.csproj",
+      "projectName": "inter",
+      "projectPath": "c:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\inter.csproj",
       "packagesPath": "C:\\Users\\tomek\\.nuget\\packages\\",
       "outputPath": "c:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\obj\\",
       "projectStyle": "PackageReference",

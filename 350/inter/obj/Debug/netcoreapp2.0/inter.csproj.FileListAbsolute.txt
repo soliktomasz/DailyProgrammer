@@ -1,0 +1,10 @@
+c:\Users\tomek\Documents\Daily Programmer\350\inter\bin\Debug\netcoreapp2.0\inter.deps.json
+c:\Users\tomek\Documents\Daily Programmer\350\inter\bin\Debug\netcoreapp2.0\inter.runtimeconfig.json
+c:\Users\tomek\Documents\Daily Programmer\350\inter\bin\Debug\netcoreapp2.0\inter.runtimeconfig.dev.json
+c:\Users\tomek\Documents\Daily Programmer\350\inter\bin\Debug\netcoreapp2.0\inter.dll
+c:\Users\tomek\Documents\Daily Programmer\350\inter\bin\Debug\netcoreapp2.0\inter.pdb
+c:\Users\tomek\Documents\Daily Programmer\350\inter\obj\Debug\netcoreapp2.0\inter.csproj.CoreCompileInputs.cache
+c:\Users\tomek\Documents\Daily Programmer\350\inter\obj\Debug\netcoreapp2.0\inter.AssemblyInfoInputs.cache
+c:\Users\tomek\Documents\Daily Programmer\350\inter\obj\Debug\netcoreapp2.0\inter.AssemblyInfo.cs
+c:\Users\tomek\Documents\Daily Programmer\350\inter\obj\Debug\netcoreapp2.0\inter.dll
+c:\Users\tomek\Documents\Daily Programmer\350\inter\obj\Debug\netcoreapp2.0\inter.pdb

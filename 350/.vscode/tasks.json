@@ -7,7 +7,7 @@
             "type": "process",
             "args": [
                 "build",
-                "${workspaceFolder}/dp350/dp350.csproj"
+                "${workspaceFolder}/inter/inter.csproj"
             ],
             "problemMatcher": "$msCompile"
         }
