@@ -14,30 +14,33 @@ namespace PermutationMadness {
         static void Dancing(string row, string dancingData) {
             var commands = dancingData.Split(',');
             var originalRow = row;
-            foreach (var move in commands) {
+            foreach (var move in commands) 
+            {
                 if (move.Contains("s")) 
                 {
                     var steps = int.Parse(new string(move.Where(Char.IsDigit).ToArray()));
                     row = string.Format("{0}{1}", row.Substring(row.Length - steps), row.Substring(0, row.Length - steps));
                 } 
-                else if (move.Contains("x")) 
+                else if (move.Contains("x"))
                 {
-                    var steps = move.Split('/');
-                    var a = int.Parse(steps[0].Remove(0,1));
-                    var b = int.Parse(steps[1]);
+                    GetIndex(move, out int a, out int b);
                     ReplacePositions(ref row, a, b);
-                } 
+                }
                 else if (move.Contains("p")) 
                 {
-                    var steps = move.Split('/');
-                    var a = int.Parse(steps[0].Remove(0,1));
-                    var b = int.Parse(steps[1]);
+                    GetIndex(move, out int a, out int b);
                     var chars = originalRow.ToCharArray();
                     ReplacePositions(ref row, row.IndexOf(chars[a]), row.IndexOf(chars[b]));
                 }
             }
             Console.WriteLine(row);
+        }
 
+        private static void GetIndex(string move, out int a, out int b)
+        {
+            var steps = move.Split('/');
+            a = int.Parse(steps[0].Remove(0, 1));
+            b = int.Parse(steps[1]);
         }
 
         static void ReplacePositions(ref string row, int indexA, int indexB) {
