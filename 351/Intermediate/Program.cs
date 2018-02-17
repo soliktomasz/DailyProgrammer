@@ -1,8 +1,6 @@
 ﻿using System;
 using System.IO;
 using System.Linq;
-using System.Reflection;
-using System.Text.RegularExpressions;
 
 namespace PermutationMadness 
 {
@@ -17,9 +15,9 @@ namespace PermutationMadness
 
         static void Dancing(string row, string dancingData) 
         {
-            var commands = dancingData.Split(',');
+            var moves = dancingData.Split(',');
             var originalRow = row;
-            foreach (var move in commands) 
+            foreach (var move in moves) 
             {
                 if (move.Contains("s")) 
                 {
