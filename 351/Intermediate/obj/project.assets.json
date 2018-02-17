@@ -670,11 +670,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\inter.csproj",
-      "projectName": "inter",
-      "projectPath": "C:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\inter.csproj",
+      "projectUniqueName": "c:\\Users\\tomek\\Documents\\Daily Programmer\\351\\Intermediate\\PermutationMadness.csproj",
+      "projectName": "PermutationMadness",
+      "projectPath": "c:\\Users\\tomek\\Documents\\Daily Programmer\\351\\Intermediate\\PermutationMadness.csproj",
       "packagesPath": "C:\\Users\\tomek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\tomek\\Documents\\Daily Programmer\\350\\inter\\obj\\",
+      "outputPath": "c:\\Users\\tomek\\Documents\\Daily Programmer\\351\\Intermediate\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

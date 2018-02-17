@@ -1,0 +1,10 @@
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\bin\Debug\netcoreapp2.0\PermutationMadness.deps.json
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\bin\Debug\netcoreapp2.0\PermutationMadness.runtimeconfig.json
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\bin\Debug\netcoreapp2.0\PermutationMadness.runtimeconfig.dev.json
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\bin\Debug\netcoreapp2.0\PermutationMadness.dll
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\bin\Debug\netcoreapp2.0\PermutationMadness.pdb
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\obj\Debug\netcoreapp2.0\PermutationMadness.csproj.CoreCompileInputs.cache
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\obj\Debug\netcoreapp2.0\PermutationMadness.AssemblyInfoInputs.cache
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\obj\Debug\netcoreapp2.0\PermutationMadness.AssemblyInfo.cs
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\obj\Debug\netcoreapp2.0\PermutationMadness.dll
+c:\Users\tomek\Documents\Daily Programmer\351\Intermediate\obj\Debug\netcoreapp2.0\PermutationMadness.pdb
