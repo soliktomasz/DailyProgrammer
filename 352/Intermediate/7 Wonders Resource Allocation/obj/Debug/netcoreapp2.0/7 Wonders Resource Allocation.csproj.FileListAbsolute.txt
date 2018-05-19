@@ -1,0 +1,11 @@
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\bin\Debug\netcoreapp2.0\7 Wonders Resource Allocation.deps.json
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\bin\Debug\netcoreapp2.0\7 Wonders Resource Allocation.runtimeconfig.json
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\bin\Debug\netcoreapp2.0\7 Wonders Resource Allocation.runtimeconfig.dev.json
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\bin\Debug\netcoreapp2.0\7 Wonders Resource Allocation.dll
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\bin\Debug\netcoreapp2.0\7 Wonders Resource Allocation.pdb
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\obj\Debug\netcoreapp2.0\7 Wonders Resource Allocation.csprojAssemblyReference.cache
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\obj\Debug\netcoreapp2.0\7 Wonders Resource Allocation.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\obj\Debug\netcoreapp2.0\7 Wonders Resource Allocation.AssemblyInfoInputs.cache
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\obj\Debug\netcoreapp2.0\7 Wonders Resource Allocation.AssemblyInfo.cs
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\obj\Debug\netcoreapp2.0\7 Wonders Resource Allocation.dll
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\352\Intermediate\7 Wonders Resource Allocation\obj\Debug\netcoreapp2.0\7 Wonders Resource Allocation.pdb
