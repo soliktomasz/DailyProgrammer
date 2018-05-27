@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 namespace _7_Wonders_Resource_Allocation
 {
-    class Program
+    internal static class Program
     {
         static void Main(string[] args)
         {
@@ -16,10 +16,6 @@ namespace _7_Wonders_Resource_Allocation
             Array.Sort(input2, (x, y) => x.Length.CompareTo(y.Length));
             Solve(input, goalPattern);
             Solve(input2, goalPattern2);
-            //foreach (var item in input)
-            //{
-            //    Console.WriteLine(item);
-            //}
             Console.ReadKey();
         }
 
@@ -60,7 +56,6 @@ namespace _7_Wonders_Resource_Allocation
             {
                 Console.WriteLine("Goal pattern impossible to achive");
             }
-            //ShowResult(dictionary);
         }
 
         private static bool CheckDictionary(Dictionary<int, int[]> values)
@@ -79,7 +74,6 @@ namespace _7_Wonders_Resource_Allocation
                             solution.Add(value);
                             break;
                         }
-
                     }
                     else if (solution.Count == 0)
                     {
@@ -89,7 +83,16 @@ namespace _7_Wonders_Resource_Allocation
                 }
                 index++;
             }
-            ShowResult(ordered.ToDictionary(d => d.Key, d => d.Value), solution);
+            var orderedDictionary = ordered.ToDictionary(d => d.Key, d => d.Value);
+            ShowResult(orderedDictionary, solution);
+            if (solution.Count != values.Count && orderedDictionary[0].Length != 1)
+            {
+                var firstElement = orderedDictionary.Values.First();
+                var temp = firstElement.ToList();
+                temp.RemoveAt(0);
+                orderedDictionary[0] = temp.ToArray();
+                return CheckDictionary(orderedDictionary);
+            }
             return solution.Count == values.Count;
         }
 
