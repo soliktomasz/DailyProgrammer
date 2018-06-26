@@ -1,0 +1,11 @@
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\bin\Debug\netcoreapp2.0\The Ducci Sequence.deps.json
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\bin\Debug\netcoreapp2.0\The Ducci Sequence.runtimeconfig.json
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\bin\Debug\netcoreapp2.0\The Ducci Sequence.runtimeconfig.dev.json
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\bin\Debug\netcoreapp2.0\The Ducci Sequence.dll
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\bin\Debug\netcoreapp2.0\The Ducci Sequence.pdb
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\obj\Debug\netcoreapp2.0\The Ducci Sequence.csprojAssemblyReference.cache
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\obj\Debug\netcoreapp2.0\The Ducci Sequence.csproj.CoreCompileInputs.cache
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\obj\Debug\netcoreapp2.0\The Ducci Sequence.AssemblyInfoInputs.cache
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\obj\Debug\netcoreapp2.0\The Ducci Sequence.AssemblyInfo.cs
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\obj\Debug\netcoreapp2.0\The Ducci Sequence.dll
+C:\Users\tomek\Documents\Projects\DailyProgrammer\DailyProgrammer\364\Intermediate\The Ducci Sequence\The Ducci Sequence\obj\Debug\netcoreapp2.0\The Ducci Sequence.pdb
